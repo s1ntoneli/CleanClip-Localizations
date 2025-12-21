@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "偏好設置";
 "quickmenu_appr_max_lines" = "文本行數限制";
 // Tool List
-"quickmenu_option_switch" = "切換項目 ⌘[0-9]";
+"quickmenu_option_switch" = "切換項目 ⌥[0-9]";
 "quickmenu_option_search" = "搜尋 ⌘F";
 "quickmenu_option_switchTab" = "切換列表 ⌘;";
 "quickmenu_option_copy" = "複製到剪貼簿 ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "移動到項目";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "格式化選單";
 "shortcuts_display_format_options_menu_shortcut" = "長按[0-9]/⮐";

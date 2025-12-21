@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "التفضيلات";
 "quickmenu_appr_max_lines" = "حد عدد الأسطر النصية";
 // Tool List
-"quickmenu_option_switch" = "تبديل العنصر ⌘[0-9]";
+"quickmenu_option_switch" = "تبديل العنصر ⌥[0-9]";
 "quickmenu_option_search" = "بحث ⌘F";
 "quickmenu_option_switchTab" = "تبديل القائمة ⌘;";
 "quickmenu_option_copy" = "نسخ إلى الحافظة ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "الانتقال إلى العنصر";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "قائمة خيارات التنسيق";
 "shortcuts_display_format_options_menu_shortcut" = "اضغط مطولاً [0-9]/⮐";

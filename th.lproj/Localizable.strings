@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "การตั้งค่า";
 "quickmenu_appr_max_lines" = "จำกัดจำนวนบรรทัดข้อความ";
 // Tool List
-"quickmenu_option_switch" = "สลับรายการ ⌘[0-9]";
+"quickmenu_option_switch" = "สลับรายการ ⌥[0-9]";
 "quickmenu_option_search" = "ค้นหา ⌘F";
 "quickmenu_option_switchTab" = "สลับรายการ ⌘;";
 "quickmenu_option_copy" = "คัดลอกไปยังคลิปบอร์ด ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "ย้ายไปยังรายการ";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "เมนูตัวเลือกฟอร์แมต";
 "shortcuts_display_format_options_menu_shortcut" = "กดค้าง [0-9]/⮐";

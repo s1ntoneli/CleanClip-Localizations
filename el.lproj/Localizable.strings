@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "Μετακίνηση στο στοιχείο";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "Μενού επιλογών μορφοποίησης";
 "shortcuts_display_format_options_menu_shortcut" = "Πατήστε παρατεταμένα [0-9]/⮐";

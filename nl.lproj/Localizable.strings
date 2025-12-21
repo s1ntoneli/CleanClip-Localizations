@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "Voorkeuren";
 "quickmenu_appr_max_lines" = "Limiet voor Aantal Regels";
 // Tool List
-"quickmenu_option_switch" = "Schakel item ⌘[0-9]";
+"quickmenu_option_switch" = "Schakel item ⌥[0-9]";
 "quickmenu_option_search" = "Zoeken ⌘F";
 "quickmenu_option_switchTab" = "Lijst wisselen ⌘;";
 "quickmenu_option_copy" = "Kopiëren naar klembord ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "Naar item verplaatsen";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "Opmaakopties menu";
 "shortcuts_display_format_options_menu_shortcut" = "Lang indrukken [0-9]/⮐";

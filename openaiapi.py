@@ -71,7 +71,7 @@ def test_translate():
 def test_translate_localizable_strings():
     # 示例用法
     source_text = """
-    "quickmenu_option_switch" = "Switch Item ⌘[0-9]";
+    "quickmenu_option_switch" = "Switch Item ⌥[0-9]";
 "quickmenu_option_search" = "Search ⌘F";
 "quickmenu_option_switchTab" = "Switch List ⌘;";
 "quickmenu_option_copy" = "Copy to Clipboard ⌘C";

@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "Predvoľby";
 "quickmenu_appr_max_lines" = "Limit počtu řádků textu";
 // Tool List
-"quickmenu_option_switch" = "Prepnúť položku ⌘[0-9]";
+"quickmenu_option_switch" = "Prepnúť položku ⌥[0-9]";
 "quickmenu_option_search" = "Hľadať ⌘F";
 "quickmenu_option_switchTab" = "Prepnúť zoznam ⌘;";
 "quickmenu_option_copy" = "Kopírovať do schránky ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "移动到项目";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "格式化选单";
 "shortcuts_display_format_options_menu_shortcut" = "长按[0-9]/⮐";

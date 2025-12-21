@@ -404,7 +404,7 @@
 "quickmenu_tip_prefences" = "Préférences";
 "quickmenu_appr_max_lines" = "Limite de lignes de texte";
 // Tool List
-"quickmenu_option_switch" = "Changer d'élément ⌘[0-9]";
+"quickmenu_option_switch" = "Changer d'élément ⌥[0-9]";
 "quickmenu_option_search" = "Rechercher ⌘F";
 "quickmenu_option_switchTab" = "Changer de liste ⌘;";
 "quickmenu_option_copy" = "Copier dans le presse-papiers ⌘C";
@@ -594,7 +594,7 @@
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
 "shortcuts_display_move_to_item" = "Déplacer vers l'élément";
-"shortcuts_display_move_to_item_shortcut" = "⌘[0-9]/↑↓";
+"shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
 "shortcuts_display_format_options_menu" = "Menu des options de formatage";
 "shortcuts_display_format_options_menu_shortcut" = "Maintenir [0-9]/⮐";
