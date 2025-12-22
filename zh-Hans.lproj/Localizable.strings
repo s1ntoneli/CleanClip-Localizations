@@ -853,4 +853,7 @@
 "every_day" = "每天";
 "every_2_days" = "每2天";
 "every_4_days" = "每4天";
+"every_week" = "每周";
+"every_2_weeks" = "每2周";
+"every_month" = "每月";
 "auto_backup_cleanup_description" = "保留策略：7个最新 + 30天内每天最后1个 + 12个月内每月最后1个 + 每年最后1个";

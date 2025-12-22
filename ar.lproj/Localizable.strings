@@ -858,4 +858,7 @@
 "every_day" = "كل يوم";
 "every_2_days" = "كل يومين";
 "every_4_days" = "كل أربعة أيام";
+"every_week" = "كل أسبوع";
+"every_2_weeks" = "كل أسبوعين";
+"every_month" = "كل شهر";
 "auto_backup_cleanup_description" = "سياسة الاحتفاظ: 7 الأحدث + آخر 1 في اليوم (30 يوم) + آخر 1 في الشهر (12 شهر) + آخر 1 في السنة";

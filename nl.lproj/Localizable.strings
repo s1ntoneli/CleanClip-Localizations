@@ -858,4 +858,7 @@
 "every_day" = "Elke Dag";
 "every_2_days" = "Elke 2 Dagen";
 "every_4_days" = "Elke 4 Dagen";
+"every_week" = "Elke week";
+"every_2_weeks" = "Elke 2 weken";
+"every_month" = "Elke maand";
 "auto_backup_cleanup_description" = "Retentiebeleid: 7 laatste + laatste 1 per dag (30d) + laatste 1 per maand (12m) + laatste 1 per jaar";

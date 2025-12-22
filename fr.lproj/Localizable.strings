@@ -858,4 +858,7 @@
 "every_day" = "Chaque jour";
 "every_2_days" = "Tous les 2 jours";
 "every_4_days" = "Tous les 4 jours";
+"every_week" = "Chaque semaine";
+"every_2_weeks" = "Toutes les 2 semaines";
+"every_month" = "Chaque mois";
 "auto_backup_cleanup_description" = "Politique de conservation : 7 derniers + 1 dernier par jour (30j) + 1 dernier par mois (12m) + 1 dernier par an";

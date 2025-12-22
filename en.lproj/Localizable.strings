@@ -858,4 +858,7 @@
 "every_day" = "Every Day";
 "every_2_days" = "Every 2 Days";
 "every_4_days" = "Every 4 Days";
+"every_week" = "Every Week";
+"every_2_weeks" = "Every 2 Weeks";
+"every_month" = "Every Month";
 "auto_backup_cleanup_description" = "Retention policy: 7 latest + last 1 per day (30d) + last 1 per month (12m) + last 1 per year";
