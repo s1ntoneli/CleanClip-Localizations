@@ -2,59 +2,59 @@
 "about_tooltip" = "Prečítaj si viac o aplikácii.";
 "quit_tooltip" = "Ukončiť aplikáciu.";
 "clear_all" = "Vymazať všetok obsah";
-"about" = "O apke CleanClip...";
+"about" = "O aplikácii CleanClip...";
 "quit" = "Ukončiť";
-"preferences" = "Preferencie...";
+"preferences" = "Nastavenia...";
 "preferences_general" = "Všeobecné";
 "preferences_monitors" = "Viacero monitorov";
 "preferences_storage" = "Úložisko";
-"accessibility_alert_message" = "\"CleanClip\" by chcel ovládať tento počítač pomocou funkcií Prístupnosti.";
-"accessibility_alert_comment" = "Udeľ prístup CleanClip v Systémových nastaveniach > Súkromie a bezpečnosť > Prístupnosť.";
+"accessibility_alert_message" = "\"CleanClip\" by chcel ovládať tento počítač pomocou funkcií prístupnosti.";
+"accessibility_alert_comment" = "Udeľte prístup aplikácii CleanClip v Systémových nastaveniach > Súkromie a bezpečnosť > Prístupnosť.";
 "accessibility_alert_deny" = "Zakázať";
 "accessibility_alert_open" = "Otvoriť Systémové nastavenia";
-"clear_alert_message" = "Naozaj chceš vymazať všetok obsah?";
-"clear_scope_alert_message" = "Ste si istí, že chcete vymazať všetok obsah pod nastavenými podmienkami? ";
-"clear_alert_comment" = "%@ Zahrnúť položky zo zoznamu zbierok\n%@ Zahrnúť aliasované položky";
+"clear_alert_message" = "Naozaj chcete vymazať všetok obsah?";
+"clear_scope_alert_message" = "Naozaj chcete vymazať všetok obsah podľa nastavených podmienok? ";
+"clear_alert_comment" = "%@ Zahrnúť položky zo zoznamu kolekcií\n%@ Zahrnúť položky s aliasom";
 "clear_alert_cancel" = "Teraz nie";
-"clear_alert_confirm" = "Odstrániť všetko";
+"clear_alert_confirm" = "Vymazať všetko";
 
 // MARK: - CleanClip
-"license_intro" = "Vyhľadaj a použi všetko skopírované priamo na mieste vkladania, nie v lište vzdialenej na 1000 míľ.";
-"license_title" = "Vitaj v CleanClip!";
+"license_intro" = "Vyhľadajte a použite všetko skopírované priamo na mieste vkladania, nie v lište vzdialenej tisíc míľ.";
+"license_title" = "Vitajte v CleanClip!";
 "feature_0" = "Rýchly prístup";
-"feature_0_intro" = "⌘ + ; Prístup do kontextového okna histórie jediným kliknutím";
+"feature_0_intro" = "⌘ + ; Jedným kliknutím otvoríte kontextové okno histórie";
 "feature_1" = "Bez prepínania kontextu";
-"feature_1_intro" = "Nie je potrebné prepínať inde, kontextové okno sa vždy zobrazí na pozícii kurzora";
-"feature_2" = "Zoznamy zbierok";
-"feature_2_intro" = "Dvojitým kliknutím ⌘ + ; rýchlo prepnete zoznamy";
+"feature_1_intro" = "Nie je potrebné prepínať okná, kontextové okno sa vždy zobrazí na pozícii kurzora";
+"feature_2" = "Zoznamy kolekcií";
+"feature_2_intro" = "Dvojitým stlačením ⌘ + ; rýchlo prepnete zoznamy";
 "feature_3" = "Inteligentné zoznamy";
 "feature_3_intro" = "Môžete vytvoriť inteligentné zoznamy na automatické organizovanie konkrétneho obsahu";
-"feature_4" = "Čakáreň na vloženie";
-"feature_4_intro" = "⌘ + ' otvorí čakáreň na vloženie, aby ste mohli vkladať položky v poradí";
+"feature_4" = "Fronta na prilepenie";
+"feature_4_intro" = "⌘ + ' otvorí frontu na prilepenie, aby ste mohli vkladať položky v poradí";
 "feature_5" = "Rýchle vyhľadávanie";
-"feature_5_intro" = "Napíšte písmeno a okamžite vyhľadajte a nájdite aj najstaršie záznamy";
+"feature_5_intro" = "Napíšte písmeno a okamžite nájdete aj najstaršie záznamy";
 "feature_6" = "Automatické ukladanie kópií";
 "feature_6_intro" = "Nemusíte sa obávať straty dôležitého obsahu. CleanClip ho automaticky uloží za vás";
-"feature_7" = "Hromadná operácia";
-"feature_7_intro" = "⌘⇧; otvorenie hlavného okna vám umožní spravovať a používať obsah hromadne";
+"feature_7" = "Hromadné operácie";
+"feature_7_intro" = "⌘⇧; otvorí hlavné okno, ktoré vám umožní spravovať a používať obsah hromadne";
 "feature_8" = "Drag & Drop";
-"feature_8_intro" = "Každú položku môžete použiť priamo ťahaním a pustení";
+"feature_8_intro" = "Každú položku môžete použiť priamo potiahnutím a pustením";
 "feature_9" = "Pripnúť na obrazovku";
-"feature_9_intro" = "Potiahnite a pustite okno náhľadu položky a automaticky sa pripne na obrazovku";
+"feature_9_intro" = "Potiahnite a pustite okno náhľadu a automaticky sa pripne na obrazovku";
 "close" = "Zavrieť";
-"congrats_permanent_member" = "Gratulujeme! Odteraz si doživotným členom!";
-"congrats_member" = "Gratulujeme! Odteraz si prémiovým členom!";
+"congrats_permanent_member" = "Gratulujeme! Teraz ste doživotným členom!";
+"congrats_member" = "Gratulujeme! Teraz ste prémiovým členom!";
 "get_start" = "Začíname!";
 "unbind_device_failure" = "Nepodarilo sa odpojiť zariadenie";
 "unbind_device" = "Odpojiť zariadenie";
-"input_serial_number_hint" = "Zadajte licenciu pre aktiváciu";
+"input_serial_number_hint" = "Zadajte licenciu na aktiváciu";
 "activate_failed" = "Aktivácia zlyhala";
 "activate" = "Aktivovať";
-"purchase_serial_number" = "Zakúpiť licenciu";
+"purchase_serial_number" = "Kúpiť licenciu";
 "start_trial" = "Spustiť skúšobnú verziu";
 
 "plan" = "Správca licencií";
-"activate_tooltip" = "Zadaj sériové číslo a staň sa členom";
+"activate_tooltip" = "Zadajte sériové číslo a staňte sa členom";
 "deactivate_tooltip" = "Odpojiť toto zariadenie";
 "plan_tooltip" = "Správa stavu členstva";
 "manual" = "Stručná príručka...";
@@ -67,8 +67,8 @@
 "prev_page" = "Predchádzajúca stránka";
 "preview" = "Náhľad";
 "search_number" = "Vyhľadávanie čísel";
-"switch_item" = "Možnosť prepínania";
-"expand" = "Rozšíriť";
+"switch_item" = "Prepnúť položku";
+"expand" = "Rozbaliť";
 
 "paste_to" = "Prilepiť do %@";
 "lines" = "%@ riadkov";
@@ -82,18 +82,18 @@
 "open_quickmenu_tooltip" = "Otvoriť rýchle menu";
 
 // MARK: CopyStack
-"copystack" = "Paste Queue";
-"open_copystack" = "Open Paste Queue";
-"open_copystack_tooltip" = "Open Paste Queue";
-"stack_empty" = "Queue is Empty";
+"copystack" = "Fronta na prilepenie";
+"open_copystack" = "Otvoriť frontu na prilepenie";
+"open_copystack_tooltip" = "Otvoriť frontu na prilepenie";
+"stack_empty" = "Fronta je prázdna";
 
-"clear_stack" = "Odstrániť";
+"clear_stack" = "Vymazať";
 
-"plain_mode" = "Obyčajný text";
+"plain_mode" = "Obyčajný režim";
 "paste_as_plain" = "**Obyčajný** text";
 "paste_as_origin" = "**Pôvodný** text";
 
-"toggle_recording" = "Zaznamenávanie";
+"toggle_recording" = "Stav nahrávania";
 "stop_recording" = "Pozastaviť";
 "start_to_record" = "Pokračovať";
 
@@ -101,118 +101,118 @@
 "reverse_order" = "Obrátiť";
 
 // MARK: PIN
-"pin" = "S hviezdičkou";
-"unpin" = "Bez hviezdičky";
+"pin" = "Pridať hviezdičku";
+"unpin" = "Odstrániť hviezdičku";
 "delete" = "Odstrániť";
-"tab_pin" = "Obľ";
+"tab_pin" = "Obľ.";
 "tab_all" = "Všetko";
 
 // popup tip
-"tip_history_item" = "Pravým klikom zobrazíš menu";
+"tip_history_item" = "Pravým kliknutím zobrazíte menu";
 "tip_tab_to_next" = "⇥ Rozbaliť/Nasledujúca stránka";
 "tip_tab_to_prev" = "⇧⇥ Predchádzajúca stránka";
-"tip_paste_stack" = "Paste Queue";
-"tip_show_help" = "Pomoc";
-"tip_search" = "⌘F Otvoriť vyhľadávanie \na-z Priame vyhľadávanie";
+"tip_paste_stack" = "Fronta na prilepenie";
+"tip_show_help" = "Pomocník";
+"tip_search" = "⌘F Otvoriť vyhľadávanie\na-z Priame vyhľadávanie";
 "tip_tab" = "%@ Prepnúť karty";
-"tip_right_click" = "Pravý klik";
+"tip_right_click" = "Pravé kliknutie";
 "tip_context_menu" = "Odstrániť/Pripnúť";
 
-"tip_format_brush" = "Formátovanie";
+"tip_format_brush" = "Formátovací štetec";
 "tip_show_tutorial" = "Zobraziť pomocníka rýchleho menu";
 
 // Output Format
 "preview" = "Náhľad";
-"remove_extra_spaces" = "Odstrániť **nadbytočné medzery**";
-"strip_all_whitespaces" = "Odstrániť **všetky medzery**";
-"make_title_case" = "**Titulky** Veľkým písmom";
-"make_sentence_case" = "Vety **Veľkým písmom**";
-"capitalize_words" = "**Slová Veľkým Písmom**";
+"remove_extra_spaces" = "Odstrániť **nadbytočné** medzery";
+"strip_all_whitespaces" = "Odstrániť **všetky** medzery";
+"make_title_case" = "**Veľké** počiatočné písmená";
+"make_sentence_case" = "**Veľké** písmeno na začiatku vety";
+"capitalize_words" = "**Veľké** počiatočné písmená slov";
 "make_upper_case" = "IBA **VEĽKÉ** PÍSMENÁ";
 "make_lower_case" = "iba **malé** písmená";
 
 // Paste stack options
 "post_action_title" = "Akcia po prilepení";
 "none" = "Žiadna";
-"post_action_text" = "Tekst";
-"post_action_text_content" = "Tekst dodan na kraju";
-"paste_queue_remove_after_paste" = "Odstranit z fronty po vložení";
-"copy_stack_paste_all_one_by_one" = "Automatické vkládání jeden po druhém";
-"copy_stack_paste_all_one_by_one_desc" = "Automaticky stiskněte ⌘V až do konce, platí pro položky, které nelze sloučit, jako jsou obrázky.";
-"copy_stack_paste_all_merge" = "Sloučit vše a vložit";
-"copy_stack_paste_all_merge_desc" = "Sloučit veškerý textový obsah dohromady a poté jej vložit najednou; neslučujte položky, které neobsahují text. Obsah možností akce po vložení bude převeden na znaky jako oddělovače.";
-"copy_stack_clear" = "Vymazat všechny položky";
+"post_action_text" = "Text";
+"post_action_text_content" = "Text pridaný na koniec";
+"paste_queue_remove_after_paste" = "Odstrániť z fronty po prilepení";
+"copy_stack_paste_all_one_by_one" = "Automaticky prilepiť po jednom";
+"copy_stack_paste_all_one_by_one_desc" = "Automaticky stlačí ⌘V až do konca, vhodné pre položky, ktoré nie je možné zlúčiť, napríklad obrázky.";
+"copy_stack_paste_all_merge" = "Zlúčiť všetko a prilepiť";
+"copy_stack_paste_all_merge_desc" = "Zlúčiť celý textový obsah a prilepiť naraz; položky bez textu sa nezlučujú. Obsah akcie po prilepení sa konvertuje na znaky ako oddeľovače.";
+"copy_stack_clear" = "Vymazať všetky položky";
 
 // Migration
 "migration_data_upgrading" = "Aktualizácia údajov...";
-"migration_data_upgrading_claim" = "V závislosti od objemu dát môže aktualizácia trvať sekundy až minúty";
-"migrate_upgrading" = "Aktualizácie údajov";
+"migration_data_upgrading_claim" = "V závislosti od objemu údajov môže aktualizácia trvať niekoľko sekúnd až minút";
+"migrate_upgrading" = "Aktualizácia údajov";
 "migrate_start" = "OK";
-"migrate_upgraded" = "Aktualizácia údajov úspešná!";
+"migrate_upgraded" = "Aktualizácia údajov bola úspešná!";
 
 // edit
 "edit" = "Upraviť";
 "edit_text" = "Upraviť text";
 
 // 新手引导
-"tutorial_title" = "Vyskúšaj tieto fantastické funkcie";
+"tutorial_title" = "Vyskúšajte tieto skvelé funkcie";
 // 快捷菜单
 "quick_menu" = "Rýchle menu";
 "quick_use_short" = "Rýchle použitie";
-"quick_use" = "Rýchle použitie – Ponuka skratiek, ktorá sa zameriava na efektivitu klávesnice";
-"quickuse_desc" = "1. ⌘; Otvor rýchle menu\n2. a-z: Na vyhľadávanie obrázkov zadaj \"image\", na vyhľadávanie súborov zadaj \"file\"\n3. Medzerník: Náhľad\n4. ⇥/⇧⇥: Posúvanie nahor/dole\n5. Číselné tlačidlá/Enter: Prilepenie zodpovedajúcej položky";
+"quick_use" = "Rýchle použitie - ponuka zameraná na efektívne ovládanie klávesnicou";
+"quickuse_desc" = "1. ⌘; Otvorte rýchle menu\n2. a-z: Zadajte text na vyhľadávanie, napíšte \"image\" na vyhľadanie obrázkov, \"file\" na súbory\n3. Medzerník: Náhľad\n4. ⇥/⇧⇥: Posúvanie nahor/nadol\n5. Číselné klávesy/Enter: Prilepenie príslušnej položky";
 "preset_paste_format" = "Nastaviť predvolený formát prilepenia";
-"preset_paste_format_desc" = "Po nastavení formátu sa všetky položky prilepia podľa zadaného formátu.\nMedzi aktuálne podporované formáty patria: obyčajný text, iba malé písmená, iba veľké písmená atď.\nZábavný plán: Otvor konverzné rozhranie na podporu vývojárov pre použitie bohatých metód konverzie.";
-"quick_paste_format" = "Formát rýchleho prilepenia";
-"quick_paste_format_desc" = "1. Dlhé stlačenie indexového čísla obsahu zobrazí ponuku formátovania\n2. Dlhé stlačenie medzerníka zobrazí náhľad formátovaného textu\n3. Krátke stlačenie indexového čísla formátu potvrdí výber";
+"preset_paste_format_desc" = "Po nastavení formátu budú všetky položky prilepené v zadanom formáte.\nAktuálne podporované formáty zahŕňajú: obyčajný text, malé písmená, veľké písmená atď.\nPlán do budúcna: Otvorenie konverzného rozhrania, ktoré vývojárom umožní vytvárať vlastné konverzné metódy.";
+"quick_paste_format" = "Rýchle formátované prilepenie";
+"quick_paste_format_desc" = "1. Dlhým stlačením indexového čísla obsahu zobrazíte ponuku formátovania\n2. Dlhým stlačením medzerníka zobrazíte náhľad formátovaného textu\n3. Krátkym stlačením indexového čísla formátu potvrdíte výber";
 "drag_image_to_file" = "Prilepiť obrázok ako súbor";
-"drag_image_to_file_desc" = "Slike se lahko neposredno prilepijo ali povlečejo kot datoteke, bodisi z uporabo hitrega menija ali čakalne vrste lepljenja.";
-"call_pinboards" = "Pripnúť a používať bežne používaný obsah";
-"call_pinboards_desc" = "Stlač skratku rýchleho menu ⌘; dvakrát pre zobrazenie bežne používaného pripnutého obsahu, nemusíš si pamätať nové klávesové skratky.\nPripni bežne používané položky na umiestnenie na začiatok zoznamu, aby si zabránil ich zahlteniu novými položkami a ich použitiu kedykoľvek.";
+"drag_image_to_file_desc" = "Obrázky je možné priamo prilepiť alebo potiahnuť ako súbory, a to z rýchleho menu aj z fronty na prilepenie.";
+"call_pinboards" = "Pripnutie a používanie bežného obsahu";
+"call_pinboards_desc" = "Stlačte skratku rýchleho menu ⌘; dvakrát na zobrazenie pripnutého obsahu. Nemusíte si pamätať nové klávesové skratky.\nPripnite často používané položky na začiatok zoznamu, aby sa nestratili pod novými položkami.";
 
 // 粘贴队列
-"paste_stack" = "Čakalna vrsta lepljenja";
-"paste_stack_intro" = "Predstavenie";
-"paste_stack_intro_desc" = "Ko je odprta čakalna vrsta lepljenja, se kopirana vsebina samodejno vnese v vrsto, in ⌘V bo lepil naslednji element v vrsti po vrsti.\n1. Kliknite 'puščici navzgor in navzdol' na dnu, da obrnete seznam\n2. 'Povlecite elemente', da spremenite vrstni red\n3. Kliknite '#', da preklopite na določen element\n4. Možnost 'Po lepljenju' bo samodejno pritisnila ustrezno tipko po lepljenju";
+"paste_stack" = "Fronta na prilepenie";
+"paste_stack_intro" = "Úvod";
+"paste_stack_intro_desc" = "Keď je fronta na prilepenie otvorená, skopírovaný obsah sa automaticky zaradí do fronty a ⌘V prilepí ďalšiu položku v poradí.\n1. Kliknite na \"šípky hore a dole\" v spodnej časti na obrátenie poradia zoznamu\n2. \"Potiahnite položky\" na zmenu poradia\n3. Kliknite na \"#\" na prepnutie na konkrétnu položku\n4. Voľba \"Akcia po prilepení\" automaticky stlačí príslušný kláves po prilepení";
 "paste_stack_fill_form" = "Pomoc pri vypĺňaní formulárov";
-"paste_stack_fill_form_desc" = "Uporaba čakalne vrste lepljenja lahko pomaga pri izpolnjevanju obrazcev s kopiranjem in lepljenjem po vrsti.";
-"paste_stack_quick_fill_form" = "Rýchle vypĺňanie formulárov - Oddelené kopírovanie";
-"paste_stack_quick_fill_form_desc" = "Uporabite ⌘⇧C 'Razdeli kopiranje', da neposredno razdelite več vrstic v več elementov in jih kopirate v čakalno vrsto. Možnost 'Po lepljenju' pomaga samodejno preklopiti na naslednjo celico, kar naredi hitro izpolnjevanje obrazcev še močnejše!";
-"paste_stack_collect" = "Zbierať informácie";
-"paste_stack_collect_desc" = "Zhromažďuj obsah z viacerých stránok a prilep všetko naraz na cieľovej stránke pre optimalizáciu procesu a šetrenie času.";
+"paste_stack_fill_form_desc" = "Použitie fronty na prilepenie pomáha pri vypĺňaní formulárov postupným kopírovaním a prilepovaním.";
+"paste_stack_quick_fill_form" = "Rýchle vypĺňanie formulárov - rozdelené kopírovanie";
+"paste_stack_quick_fill_form_desc" = "Použite ⌘⇧C \"Rozdeliť kopírovanie\" na rozdelenie viacerých riadkov na samostatné položky a ich kopírovanie do fronty. Voľba \"Akcia po prilepení\" automaticky prepne na ďalšiu bunku, čím rýchle vypĺňanie formulárov ešte zefektívni!";
+"paste_stack_collect" = "Zbieranie informácií";
+"paste_stack_collect_desc" = "Zhromaždite obsah z viacerých stránok a prilepte všetko naraz na cieľovej stránke. Optimalizácia procesu a šetrenie času.";
 
 // 菜单栏
 "status_bar" = "Stavová lišta";
 "status_bar_functions" = "Funkcie stavovej lišty";
-"status_bar_functions_desc" = "1. Zobrazí posledný skopírovaný záznam\n2. Podrž ⌥ a klikni na ikonu pozastaviť alebo obnov monitorovanie schránky\n3. Rýchle zablokovanie skopírovaného obsahu z aktuálnej aplikácie\n4. Správca licencií\n5. Stručná príručka";
+"status_bar_functions_desc" = "1. Zobrazuje posledný skopírovaný záznam\n2. Podržte ⌥ a kliknite na ikonu na pozastavenie alebo obnovenie monitorovania schránky\n3. Rýchle zablokovanie kopírovaného obsahu z aktuálnej aplikácie\n4. Správca licencií\n5. Stručná príručka";
 
 // 主窗口
 "main_window" = "Hlavné okno";
 "main_window_soon" = "Už čoskoro";
-"main_window_soon_desc" = "Hlavné okno je stále dostupné, prehľadné, s možnosťou presúvania myšou a s jednoduchou správou pre pohodlné ovládanie myšou.";
+"main_window_soon_desc" = "Hlavné okno je stále dostupné, prehľadné, s možnosťou presúvania a jednoduchou správou, ideálne pre používateľov myši.";
 
 // 导航
 "previous" = "Predchádzajúci";
-"next" = "Ďaľší";
-"done" = "Dokončiť tutoriál";
+"next" = "Ďalší";
+"done" = "Dokončiť príručku";
 
 // MARK: - PinnedWindow
 "pinned_window" = "Otvoriť hlavné okno";
-"pinned_window_tooltip" = "Hlavné okno je rezidentné okno na správu a organizáciu obsahu schránky";
+"pinned_window_tooltip" = "Hlavné okno je stále okno na správu a organizáciu obsahu schránky";
 
 // MARK: Title
 "pin_apps_all" = "Všetky aplikácie";
 "pin_apps_all_tooltip" = "Zobraziť všetky aplikácie";
-"pin_apps_frontmost" = "Podľa apky v popredí";
-"pin_apps_frontmost_tooltip" = "Vždy zobrazovať obsah apky v popredí";
+"pin_apps_frontmost" = "Podľa aplikácie v popredí";
+"pin_apps_frontmost_tooltip" = "Vždy zobrazovať obsah aplikácie v popredí";
 "pin_apps_empty" = "Tu sa zobrazí zoznam zdrojových aplikácií";
 "pin_bottom_accent_color" = "Farba zvýraznenia";
-"pin_bottom_accent_color_system" = "Použiť farbu zvýraznenia systému";
+"pin_bottom_accent_color_system" = "Použiť systémovú farbu zvýraznenia";
 "pin_bottom_appearence" = "Vzhľad";
 "pin_bottom_appearence_line_spacing" = "Medzery medzi riadkami";
 "pin_bottom_auto_collect_tooltip" = "Automaticky zbierať do aktuálneho zoznamu";
 "pin_bottom_collapse_or_expand_tooltip" = "Zbaliť/Rozbaliť okno";
-"pin_bottom_pin_tooltip" = "Automaticky zmeniť veľkosť okna na základe stavu pri prejdení myšou";
+"pin_bottom_pin_tooltip" = "Automatická zmena veľkosti okna podľa stavu kurzora myši";
 "pin_bottom_scroll_to_top_tooltip" = "Prejsť na začiatok";
 "pin_bottom_setting_tooltip" = "Možnosti";
 "pin_bottom_content" = "Obsah";
@@ -225,22 +225,22 @@
 "pin_context_add_to_lists" = "Pridať do zoznamu";
 "pin_context_alias" = "Nastaviť alias";
 "pin_context_copy_to_clipboard" = "Kopírovať do schránky";
-"pin_context_split_to_multilines" = "Razdeli v več elementov";
+"pin_context_split_to_multilines" = "Rozdeliť na viacero položiek";
 "pin_context_delete" = "Odstrániť";
 "pin_context_merge_paste" = "Zlúčiť a prilepiť";
 "pin_context_paste" = "Prilepiť";
 "pin_context_paste_as_plain" = "Prilepiť ako obyčajný text";
-"pin_context_paste_as" = "Prilepi kot...";
+"pin_context_paste_as" = "Prilepiť ako...";
 "pin_context_preview" = "Náhľad";
-"pin_context_edit" = "Uredi";
-"pin_context_preview_when_hover" = "Povoliť náhľad pri prejdení myšou";
+"pin_context_edit" = "Upraviť";
+"pin_context_preview_when_hover" = "Povoliť náhľad pri prechode myšou";
 "pin_context_share" = "Zdieľať...";
 
 "pin_context_paste_settings" = "Nastavenia prilepenia";
 "pin_context_include_timestamp" = "Zahrnúť časovú pečiatku";
 "pin_context_include_alias" = "Zahrnúť alias";
-"pin_context_paste_one_by_one" = "Vkladať po jednom";
-"pin_context_merge_settings" = "Zlúčiť nastavenia";
+"pin_context_paste_one_by_one" = "Prilepiť po jednom";
+"pin_context_merge_settings" = "Nastavenia zlúčenia";
 "pin_context_merge_copy" = "Zlúčiť a kopírovať";
 "separator_input_title" = "Zadajte oddeľovač";
 "common_ok" = "OK";
@@ -249,16 +249,16 @@
 "separator_none" = "Žiadny";
 "separator_return" = "Nový riadok";
 "separator_tab" = "Tabulátor";
-"separator_section_title" = "Oddeľovač (aktuálne: %@)";
+"separator_section_title" = "Oddeľovač (aktuálny: %@)";
 "separator_custom" = "Vlastný...";
-"pin_always_show_application_icon" = "Vždy zobraziť ikonu aplikácie";
-"pin_appr_max_lines" = "Limit počtu řádků textu";
+"pin_always_show_application_icon" = "Vždy zobrazovať ikonu aplikácie";
+"pin_appr_max_lines" = "Limit počtu riadkov textu";
 
 // MARK: Content List
 "pin_contents_appname_tooltip" = "Názov aplikácie";
 // Empty Page
 "pin_contents_list_empty" = "Zoznam je prázdny";
-"pin_contents_list_empty_desc" = "Začni kopírovať nejaký obsah";
+"pin_contents_list_empty_desc" = "Skúste niečo skopírovať";
 
 // MARK: Add List Window
 "pin_lists_title" = "Upraviť zoznam";
@@ -266,16 +266,16 @@
 "pin_lists_color" = "Farba:";
 "pin_lists_color_preview" = "Ukážka farby:";
 
-"pin_lists_shortcut" = "Odpri v bližnjici:";
-"pin_lists_shortcut_for_pin" = "Odpri v glavnem oknu:";
+"pin_lists_shortcut" = "Otvoriť v rýchlom menu:";
+"pin_lists_shortcut_for_pin" = "Otvoriť v hlavnom okne:";
 
 "pin_lists_delete" = "Odstrániť";
 "pin_lists_done" = "Hotovo";
 
 "pin_lists_smartlist" = "Inteligentný zoznam";
 "pin_lists_match" = "Zhoda";
-"pin_lists_match_all" = "Všetko";
-"pin_lists_match_any" = "Akýkoľvek";
+"pin_lists_match_all" = "Všetky";
+"pin_lists_match_any" = "Akákoľvek";
 "pin_lists_match_following" = "Podmienky:";
 
 "pin_lists_unknown" = "Neznámy";
@@ -286,9 +286,9 @@
 "pin_lists_filter_lists_empty" = "Zoznam je prázdny";
 
 "pin_lists_filter_contains" = "Obsahuje";
-"pin_lists_filter_starts_with" = "Začína sa";
-"pin_lists_filter_ends_with" = "Končí sa";
-"pin_lists_filter_include" = "Obsahuje";
+"pin_lists_filter_starts_with" = "Začína na";
+"pin_lists_filter_ends_with" = "Končí na";
+"pin_lists_filter_include" = "Zahrnúť";
 "pin_lists_filter_exclude" = "Vylúčiť";
 "pin_lists_filter_matches_word" = "Zhodné slovo";
 "pin_lists_filter_regular_expression" = "Regulárny výraz";
@@ -305,14 +305,14 @@
 "pin_lists_filter_media_type_image" = "Obrázok";
 "pin_lists_filter_media_type_link" = "Odkaz";
 "pin_lists_filter_media_type_other" = "Iné";
-"pin_lists_filter_media_type_rtf" = "Bohatý text";
+"pin_lists_filter_media_type_rtf" = "Formátovaný text";
 "pin_lists_filter_media_type_text" = "Text";
 
 "pin_lists_filter_text_length_eq" = "Rovná sa";
 "pin_lists_filter_text_length_gt" = "Väčšie ako";
 "pin_lists_filter_text_length_gt_eq" = "Väčšie alebo rovné";
-"pin_lists_filter_text_length_lt" = "Menej ako";
-"pin_lists_filter_text_length_lt_eq" = "Menej alebo rovná sa";
+"pin_lists_filter_text_length_lt" = "Menšie ako";
+"pin_lists_filter_text_length_lt_eq" = "Menšie alebo rovné";
 
 "pin_lists_filter_remote_title" = "Táto položka je z";
 "pin_lists_filter_remote_other" = "Iné zariadenia";
@@ -327,82 +327,83 @@
 "pin_lists_filter_type_text_length" = "Dĺžka textu";
 
 "pin_title_app_all" = "Všetko";
-"pin_title_back_tooltip" = "Späť na predvolený zoznam zobrazenia";
+"pin_title_back_tooltip" = "Späť na predvolený zoznam";
 "pin_title_application_tooltip" = "Aktuálny rozsah aplikácie";
-"pin_title_pin_tooltip" = "Kliknutím pripni alebo Podľa apky v popredí";
+"pin_title_pin_tooltip" = "Kliknutím pripnite alebo sledujte aplikáciu v popredí";
 "pin_title_scope_all" = "Všetko";
 "pin_title_lists_favorite" = "Obľúbené";
-"pin_title_lists_tutorial" = "Vodič";
+"pin_title_lists_tutorial" = "Príručka";
 "pin_title_lists_image" = "Obrázok";
 "pin_title_lists_file" = "Súbor";
 "pin_title_lists_link" = "Odkaz";
-"pin_title_lists_email" = "Email";
+"pin_title_lists_email" = "E-mail";
 "pin_title_lists_remote" = "Vzdialené";
 "pin_title_lists_notes" = "Z poznámok";
-"pin_title_scope_tooltip" = "Určiť rozsah obsahu vyhľadávania";
+"pin_title_scope_tooltip" = "Určite rozsah obsahu vyhľadávania";
 "pin_title_search_tooltip" = "⌘F Rýchle zobrazenie alebo skrytie vyhľadávacieho poľa";
 
 "pin_unknown" = "Neznámy";
 
 // pin tutorial
-"main_window_intro_short" = "Predstavenie";
-"main_window_intro" = "Hlavné okno - stála súčasť obrazovky s pokročilými možnosťami pre organizáciu a manažment obsahu";
-"main_window_intro_desc" = "Hlavné okno je stála súčasť obrazovky, pomocou ktorej môžeš hromadne spravovať a využívať položky zo schránky.\nFilter: Filtruj zobrazené položky na základe aplikácie + zoznamu.\nVyhľadávanie: Rýchle vyhľadávanie v rozsahu filtrovania.\nVýber: Ľavé kliknutie vyberie jednu položku; ⌘+kliknutie pridá položku; ⇧+kliknutie pridá všetky položky medzi dvomi výbermi;\nPrilepenie: Dvojité kliknutie prilepí jednu položku; pre hromadnú správu položiek, presuň myšou alebo vykonaj pravé kliknutie na menu.";
-"main_window_follow_frontmost" = "Automaticky podľa apky v popredí";
-"main_window_follow_frontmost_desc" = "Po výbere režimu \"Podľa apky v popredí\" bude filter automaticky sledovať aplikáciu v popredí a zobrazí históriu schránky danej aplikácie.\nTento režim môže pri použití so zoznamami vytvoriť veľa možností a poskytnúť vyhradené priestory pre každú aplikáciu, čím sa odomkne potenciál aplikácie.";
+"main_window_intro_short" = "Úvod";
+"main_window_intro" = "Hlavné okno - stále okno s pokročilými možnosťami organizácie a správy obsahu";
+"main_window_intro_desc" = "Hlavné okno je stále okno na obrazovke, kde môžete hromadne spravovať a používať záznamy zo schránky.\nFilter: Voľné filtrovanie zobrazených položiek podľa aplikácie + zoznamu.\nVyhľadávanie: Rýchle vyhľadávanie v rámci filtrovania.\nVýber: Ľavým kliknutím vyberiete jednu položku; ⌘+kliknutie pridá položku; ⇧+kliknutie pridá všetky položky medzi dvomi výbermi;\nPrilepenie: Dvojitým kliknutím prilepíte jednu položku; potiahnutím alebo pravým kliknutím na menu vykonáte hromadné operácie.";
+"main_window_follow_frontmost" = "Automaticky sledovať aplikáciu v popredí";
+"main_window_follow_frontmost_desc" = "V režime sledovania aplikácie v popredí bude filter automaticky sledovať zmeny aplikácie v popredí a zobrazí históriu schránky danej aplikácie.\nTento režim v kombinácii so zoznamami vytvára mnoho možností a poskytuje vyhradený priestor pre každú aplikáciu.";
 "main_window_youtubelinks_short" = "Inteligentné zoznamy";
-"main_window_youtubelinks" = "Inteligentné zoznamy - inteligentné filtrovanie položiek na základe podmienok";
-"main_window_youtubelinks_desc" = "Pomocou inteligentných zoznamov môžeš ľubovoľne nastaviť podmienky filtrovania na získanie požadovaného obsahu.\nAktuálne podporované podmienky filtrovania sú: typ média, kľúčové slová, regulárne výrazy, počet znakov, zdrojová aplikácia, zdrojové zariadenie a umiestnenie v zozname.";
-"main_window_manual_collection" = "Zoznamy - manuálna správa";
-"main_window_manual_collection_desc" = "Vyber jednu alebo viac položiek, pravým kliknutím a výberom položky \"Pridať do zoznamu\" ich ulož do konkrétnych zoznamov.\nZoznamy je možné filtrovať pomocou inteligentných zoznamov pre viac možností.";
-"main_window_sketch" = "Zoznamy - automatické pridanie";
-"main_window_sketch_desc" = "Vyber zoznam, zapni možnosť automatického pridania nižšie a všetok obsah, ktorý skopíruješ, sa automaticky uloží do zadaného zoznamu.\nMôžeš preň nastaviť alias, vďaka ktorému budeš mať k zoznamu rýchly prístup, kedykoľvek budeš potrebovať.\nMnohé aplikácie, najmä aplikácie na tvorbu obsahu, ako napr. Sketch a Final Cut Pro, nemajú pohodlnú funkciu pridania.\nAk tvoja obľúbená aplikácia nepodporuje pridanie, táto funkcia bude pre Teba mimoriadne užitočná!";
+"main_window_youtubelinks" = "Inteligentné zoznamy - automatické filtrovanie položiek podľa podmienok";
+"main_window_youtubelinks_desc" = "Pomocou inteligentných zoznamov môžete ľubovoľne nastaviť podmienky filtrovania a získať požadovaný obsah.\nAktuálne podporované podmienky filtrovania: typ média, kľúčové slová, regulárne výrazy, počet znakov, zdrojová aplikácia, zdrojové zariadenie a umiestnenie v kolekcii.";
+"main_window_manual_collection" = "Kolekcie - manuálna správa";
+"main_window_manual_collection_desc" = "Vyberte jednu alebo viac položiek, pravým kliknutím zvoľte \"Pridať do zoznamu\" a uložte ich do konkrétneho zoznamu.\nKolekcie je možné filtrovať pomocou inteligentných zoznamov pre ďalšie možnosti.";
+"main_window_sketch" = "Kolekcie - automatické pridávanie";
+"main_window_sketch_desc" = "Vyberte zoznam, zapnite možnosť automatického pridávania nižšie a všetok skopírovaný obsah sa automaticky uloží do daného zoznamu.\nMôžete mu nastaviť alias na rýchly prístup.\nMnohé aplikácie, najmä na tvorbu obsahu, ako Sketch a Final Cut Pro, nemajú pohodlnú funkciu kolekcií.\nAk vaša obľúbená aplikácia nepodporuje kolekcie, táto funkcia bude pre vás mimoriadne užitočná!";
 
 // Pro
-"pro_unpaid_version" = "Zostáva %@ krát dnes";
+"pro_unpaid_version" = "Dnes zostáva %@ použití";
 "pro" = "Pro";
 
 "start_free" = "Začať zadarmo";
-"upgrade_plan_unlock_unlimited" = "Vyskúšajte CleanClip zadarmo na svojom Macu. Plaťte iba v prípade, že sa rozhodnete pokračovať, alebo zrušte kedykoľvek.";
+"upgrade_plan_unlock_unlimited" = "Vyskúšajte CleanClip zadarmo na svojom Macu. Plaťte len vtedy, ak sa rozhodnete pokračovať, alebo kedykoľvek zrušte.";
 "subscribe" = "Predplatiť";
 "subscribed" = "Predplatené";
 "change_plan" = "Zmeniť plán";
-"active" = "Aktívny";
+"active" = "Aktívne";
 "next_cycle_active" = "Aktívne v nasledujúcom cykle";
-"free" = "Bezplatné";
+"free" = "Zadarmo";
 "or_monthly" = "alebo %@/mesiac";
 "basic_plan" = "Základný plán";
-"basic_plan_description" = "Obmedzené na 25 vložení za deň, všetky ostatné funkcie sú bezplatné";
-"lifetime_plan" = "Životný plán";
+"basic_plan_description" = "Obmedzené na 25 prilepení za deň, všetky ostatné funkcie sú zadarmo";
+"lifetime_plan" = "Doživotný plán";
 "lifetime_plan_description" = "Už ste členom doživotného plánu";
 "manage_plan" = "Spravovať plán...";
-"subscribe_with_free_trial" = "Začnite svoju bezplatnú skúšku";
+"subscribe_with_free_trial" = "Začnite svoju bezplatnú skúšobnú verziu";
 "free_trail_desc" = "7 dní zadarmo, potom %@/rok";
 "choose_your_plan" = "Vyberte si svoj plán";
-"choose_your_plan_desc" = "Bezplatná skúška je zahrnutá v akomkoľvek pláne. Môžete zrušiť alebo zmeniť svoje predplatné kedykoľvek.";
+"choose_your_plan_desc" = "Bezplatná skúšobná verzia je súčasťou každého plánu. Predplatné môžete kedykoľvek zrušiť alebo zmeniť.";
 "current_plan" = "Aktuálny plán";
 "cancel" = "Zrušiť";
 "continue" = "Pokračovať";
 "terms" = "Podmienky";
-"privacy" = "Ochrana osobných údajov";
+"privacy" = "Ochrana súkromia";
 "restore" = "Obnoviť";
 
 // quickmenu settings
 "quickmenu_option_show_shortcut" = "Vždy zobrazovať tipy na skratky";
-"quickmenu_option_show_when_hover" = "Automatické zobrazenie pri prejdení myšou";
-"quickmenu_option_show_when_cmd_down" = "Samodejno prikaži ob pritisku na ⌘";
+"quickmenu_option_show_when_hover" = "Automaticky zobraziť pri prechode myšou";
+"quickmenu_option_show_when_cmd_down" = "Automaticky zobraziť pri stlačení ⌘";
 "quickmenu_option" = "Možnosti panela nástrojov";
 "quickmenu_appr_always_expand" = "Predvolený počet položiek";
 "quickmenu_appr_always_expand_5" = "5 položiek";
 "quickmenu_appr_always_expand_10" = "10 položiek";
-"quickmenu_general_preview_on_hover" = "Automatický náhľad pri prejdení myšou";
-"quickmenu_general_preview_on_hover_delay" = "Zamik predogleda";
+"quickmenu_general_preview_on_hover" = "Automatický náhľad pri prechode myšou";
+"quickmenu_general_preview_on_hover_delay" = "Oneskorenie náhľadu";
+
 "quickmenu_general_default_action" = "Predvolená akcia";
-"quickmenu_general_default_action_auto_paste" = "Automatické prilepenie";
+"quickmenu_general_default_action_auto_paste" = "Automaticky prilepiť";
 "quickmenu_general_default_action_copy" = "Iba kopírovať";
-"quickmenu_general_move_to_top" = "Premakni na vrh po uporabi";
-"quickmenu_tip_prefences" = "Predvoľby";
-"quickmenu_appr_max_lines" = "Limit počtu řádků textu";
+"quickmenu_general_move_to_top" = "Po použití presunúť na začiatok";
+"quickmenu_tip_prefences" = "Nastavenia";
+"quickmenu_appr_max_lines" = "Limit počtu riadkov textu";
 // Tool List
 "quickmenu_option_switch" = "Prepnúť položku ⌥[0-9]";
 "quickmenu_option_search" = "Hľadať ⌘F";
@@ -417,125 +418,125 @@
 "preferences_ocr_primary_language" = "Primárny jazyk";
 "preferences_ocr_revision" = "Revízia";
 "preferences_ocr_reindex" = "Aktualizovať index vyhľadávania";
-"quickmenu_preview_ocr_header" = "Besedilo v sliki";
+"quickmenu_preview_ocr_header" = "Text v obrázku";
 
 // MARK: - settings
 // MARK: settings name
-"settings_general" = "Splošno";
+"settings_general" = "Všeobecné";
 "settings_permissions" = "Povolenia";
-"settings_shortcuts" = "Bližnjice";
-"settings_paste_format" = "Oblika lepljenja";
-"settings_lists" = "Seznami";
-"settings_quick_menu" = "Hitri meni";
-"settings_main_window" = "Glavno okno";
-"settings_paste_stack" = "Vrsta lepljenja";
+"settings_shortcuts" = "Skratky";
+"settings_paste_format" = "Formát prilepenia";
+"settings_lists" = "Zoznamy";
+"settings_quick_menu" = "Rýchle menu";
+"settings_main_window" = "Hlavné okno";
+"settings_paste_stack" = "Fronta na prilepenie";
 "settings_ignore" = "Pravidlá";
 "settings_storage" = "Úložisko";
 "settings_backup" = "Zálohovanie a obnova";
 "settings_ocr" = "OCR";
-"settings_about" = "O nas";
-"settings_appupdates" = "Na voljo je posodobitev programske opreme";
-"settings_license" = "Licenca";
+"settings_about" = "O aplikácii";
+"settings_appupdates" = "K dispozícii je aktualizácia softvéru";
+"settings_license" = "Licencia";
 "settings_pro" = "Pro";
-"upgrade_to_recommand_os_version" = "Priporočamo uporabo macOS 13.0+ za najboljšo izkušnjo!";
+"upgrade_to_recommand_os_version" = "Pre najlepší zážitok odporúčame macOS 13.0+!";
 
 // MARK: General
-"check_update" = "Preveri posodobitve";
+"check_update" = "Skontrolovať aktualizácie";
 "check_update_desc" = "Automaticky kontrolovať aktualizácie";
-"check_update_failed" = "Aktualizasyon kontrolü başarısız oldu";
-"check_update_no_update" = "Yeni bir sürüm yok";
+"check_update_failed" = "Kontrola aktualizácií zlyhala";
+"check_update_no_update" = "Žiadna nová verzia";
 "sounds" = "Zvuky";
-"sounds_selection" = "Izbor zvoka";
-"sounds_desc" = "Prehrať zvuk pri pridaní novej položky do histórie a pri výbere predchádzajúcej položky.";
-"launch_at_login" = "Spustiť pri štarte";
-"shortcuts" = "Bližnjice";
-"appearance" = "Tema";
-"appearance_light" = "Svetla";
-"appearance_dark" = "Temna";
-"appearance_auto" = "Sistem";
+"sounds_selection" = "Výber zvuku";
+"sounds_desc" = "Prehrať zvukový efekt pri pridaní novej položky do histórie a pri výbere predchádzajúcej položky.";
+"launch_at_login" = "Spustiť pri prihlásení";
+"shortcuts" = "Skratky";
+"appearance" = "Téma";
+"appearance_light" = "Svetlá";
+"appearance_dark" = "Tmavá";
+"appearance_auto" = "Systémová";
 
 // Menu Icon
 "show_menu_icon" = "Zobraziť ikonu v lište";
-"show_menu_icon_desc" = "Ak sa ikona menu nezobrazuje, môžeš ju otvoriť kliknutím na ikonu v spodnej časti kontextového okna histórie.";
+"show_menu_icon_desc" = "Ak sa ikona v lište nezobrazuje, menu môžete otvoriť kliknutím na ikonu v spodnej časti kontextového okna histórie.";
 
-"show_recently_desc" = "Zobraziť posledné kopírovanie vedľa ikony v lište";
+"show_recently_desc" = "Zobraziť poslednú kópiu vedľa ikony v lište";
 
 // MARK: Quick Menu
 "quick_menu_title" = "Rýchle menu:";
 "quick_menu_shortcut_desc" = "Globálna klávesová skratka na otvorenie aplikácie.";
 
-"popup_at" = "Pojavno okno pri";
+"popup_at" = "Zobraziť pri";
 "window_center" = "Stred okna";
 "mouse_cursor" = "Kurzor myši";
 "text_cursor" = "Textový kurzor";
 "screen_center" = "Stred obrazovky";
-"popup_at_fallback" = "Zaradi omejitev sistema morda ni mogoče natančno določiti mesta vnosa. Izberite rezervno mesto.";
+"popup_at_fallback" = "Kvôli systémovým obmedzeniam nie je možné v niektorých aplikáciách presne určiť pozíciu vstupu. Vyberte náhradnú pozíciu.";
 "popup_at_fallback_title" = "Náhradná pozícia";
 
-"quick_menu_disable_all_animations" = "Deaktivovať všetky animácie";
-"quick_menu_always_show_lists" = "Vždy zobraziť zoznamy";
-"quick_menu_always_show_footer" = "Vždy zobraziť pätičku";
-"quick_menu_always_show_application_icon" = "Vždy zobraziť ikonu aplikácie";
+"quick_menu_disable_all_animations" = "Vypnúť všetky animácie";
+"quick_menu_always_show_lists" = "Vždy zobrazovať zoznamy";
+"quick_menu_always_show_footer" = "Vždy zobrazovať pätičku";
+"quick_menu_always_show_application_icon" = "Vždy zobrazovať ikonu aplikácie";
 
-"quick_menu_long_press_show_window" = "Dlhé stlačenie na zobrazenie okna";
-"quick_menu_long_press_show_window_delay" = "Dĺžka dlhého stlačenia";
+"quick_menu_long_press_show_window" = "Dlhým stlačením zobraziť okno";
+"quick_menu_long_press_show_window_delay" = "Trvanie dlhého stlačenia";
 
 // MARK: Main Window
 "main_window_title" = "Hlavné okno:";
 "main_window_shortcut_desc" = "Globálna klávesová skratka na otvorenie hlavného okna.";
-"main_window_auto_collapse" = "Samodejno skrij";
-"main_window_full_mode" = "Polna višina";
-"main_window_auto_follow_focus" = "Automaticky sa presunúť na monitor s fokusom";
+"main_window_auto_collapse" = "Automaticky zbaliť";
+"main_window_full_mode" = "Plná výška";
+"main_window_auto_follow_focus" = "Automaticky presunúť na monitor s fokusom";
 
 // MARK: Paste Stack
-"paste_stack_title" = "Čakalna vrsta lepljenja:";
-"paste_stack_desc" = "Globalna bližnjica za odpiranje čakalne vrste lepljenja. Privzeto: 「⌘ + '」";
+"paste_stack_title" = "Fronta na prilepenie:";
+"paste_stack_desc" = "Globálna klávesová skratka na otvorenie fronty na prilepenie. Predvolené: 「⌘ + '」";
 
-"split_copy" = "Rozdeliť kopírovanie:";
-"split_copy_desc" = "Rozdeliť kopírovanie rozdelí viac riadkov textu na samostatné položky na kopírovanie.";
+"split_copy" = "Rozdelené kopírovanie: ";
+"split_copy_desc" = "Rozdelené kopírovanie rozdelí viac riadkov textu na samostatné položky na kopírovanie.";
 
-"paste_stack_order" = "Privzeto vrstni red:";
-"paste_stack_order_stack" = "Vrstni red skladanja";
-"paste_stack_order_queue" = "Vrstni red čakanja";
-"paste_stack_order_shuffle" = "Naključni vrstni red";
+"paste_stack_order" = "Predvolené poradie:";
+"paste_stack_order_stack" = "Poradie zásobníka";
+"paste_stack_order_queue" = "Poradie fronty";
+"paste_stack_order_shuffle" = "Náhodné poradie";
 
 // MARK: - Permissions
 "permissions_required" = "Požadované povolenia";
-"permissions_required_desc" = "Aby sa zobrazila rýchla ponuka pri kurzore textu a aktivovala sa fronta na vloženie, povolte prístupnosť a monitorovanie vstupu. Aktuálny stav je zobrazený nižšie; môžete otvoriť nastavenia pre akúkoľvek zakázanú položku.";
+"permissions_required_desc" = "Na zobrazenie rýchleho menu pri textovom kurzore a aktiváciu fronty na prilepenie povoľte Prístupnosť a Monitorovanie vstupu. Aktuálny stav je zobrazený nižšie; pre každú zakázanú položku môžete otvoriť nastavenia.";
 "permissions_quick_add" = "Rýchle pridanie";
-"permissions_quick_add_desc" = "Potiahnite ikonu aplikácie do zoznamu v systémových nastaveniach, aby ste rýchlo udelili povolenia.";
-"permissions_status" = "Stav povolenia";
+"permissions_quick_add_desc" = "Potiahnite ikonu aplikácie do zoznamu v Systémových nastaveniach na rýchle udelenie povolení.";
+"permissions_status" = "Stav povolení";
 "permissions_accessibility" = "Prístupnosť";
-"permissions_accessibility_desc" = "Používa sa na spustenie operácií Vložiť a asistenciu.";
+"permissions_accessibility_desc" = "Používa sa na spúšťanie prilepenia a asistenčných operácií.";
 "permissions_input_monitoring" = "Monitorovanie vstupu";
-"permissions_input_monitoring_desc" = "Používa sa na počúvanie Cmd+V na ovládanie fronty na vloženie.";
-"permissions_open_settings" = "Otvoriť nastavenia…";
+"permissions_input_monitoring_desc" = "Používa sa na zachytávanie Cmd+V na ovládanie fronty na prilepenie.";
+"permissions_open_settings" = "Otvoriť nastavenia...";
 "permissions_recheck" = "Znovu skontrolovať";
 "permissions_enabled" = "Povolené";
 
-"paste_queue_auto_follow_focus" = "Automaticky sa presunúť na monitor s fokusom";
+"paste_queue_auto_follow_focus" = "Automaticky presunúť na monitor s fokusom";
 
 // MARK: Storage
 // 时间单位
-"day" = "deň";
-"week" = "týždeň";
-"month" = "mesiac";
-"year" = "rok";
-"never" = "nikdy";
+"day" = "Deň";
+"week" = "Týždeň";
+"month" = "Mesiac";
+"year" = "Rok";
+"never" = "Nikdy";
 "two_years" = "2 roky";
 
 // 界面文本
 "auto_clear" = "Automatické vymazanie";
 "auto_clear_by_time" = "Automatické vymazanie podľa času: %@";
 "number_of_copies" = "Automatické čistenie podľa počtu:";
-"unlimited" = "neobmedzené";
+"unlimited" = "Neobmedzené";
 
 // 清理范围
 "clear_scope" = "Rozsah vymazania";
-"clear_favorites" = "Zahrnúť položky zo zoznamu zbierok";
-"clear_favorites_description" = "Ak je zakázané, položky zo zoznamu zbierok nebudú zahrnuté v automatickom vymazávaní";
-"clear_with_alias" = "Zahrnúť aliasované položky";
-"clear_with_alias_description" = "Ak je zakázané, aliasované položky nebudú zahrnuté v automatickom vymazávaní";
+"clear_favorites" = "Zahrnúť položky z kolekcií";
+"clear_favorites_description" = "Ak je vypnuté, položky z kolekcií nebudú zahrnuté v automatickom vymazávaní";
+"clear_with_alias" = "Zahrnúť položky s aliasom";
+"clear_with_alias_description" = "Ak je vypnuté, položky s aliasom nebudú zahrnuté v automatickom vymazávaní";
 "clear_once" = "Vymazať raz podľa rozsahu";
 "clear_all" = "Vymazať všetok obsah";
 
@@ -545,12 +546,12 @@
 "ignore_or_not" = "Ignorovať";
 "bundle_id" = "Identifikátor balíka";
 "select_all" = "Vybrať všetko";
-"unselect_all" = "Zrušiť výber všetkého";
-"ignore_lists_name" = "Ignorovať pravidlo %@";
-"ignore_custom_lists_desc" = "Môžete pridať viacero filtrov, obsah, ktorý prejde filtrami, nebude uložený v CleanClip";
+"unselect_all" = "Zrušiť výber";
+"ignore_lists_name" = "Pravidlá ignorovania %@";
+"ignore_custom_lists_desc" = "Môžete pridať viacero pravidiel filtrovania. Odfiltrovaný obsah nebude uložený v CleanClip.";
 "ignored_pastetypes" = "Podľa typov";
 "ignored_advanced" = "Pokročilé";
-"add_ignored_lists" = "Pridať ignorované pravidlo";
+"add_ignored_lists" = "Pridať pravidlo ignorovania";
 "type" = "Typ schránky";
 "type_count" = "Počet";
 "type_name" = "";
@@ -562,93 +563,93 @@
 
 
 // MARK: About
-"acknowledgements" = "Podakovanie";
-"visit_website" = "Obišči spletno mesto";
-"contact_us" = "Kontaktiraj nas";
-"copyright" = "©️Avtorske pravice";
+"acknowledgements" = "Poďakovanie";
+"visit_website" = "Navštíviť web";
+"contact_us" = "Kontaktujte nás";
+"copyright" = "©️Autorské práva";
 
 // MARK: settings lists
-"lists_desc" = "Organizirajte svoje vsebine bolje z zbiranjem seznamov in pametnimi seznami";
-"lists_name" = "Ime";
-"is_smartlist" = "Pameten seznam";
-"count" = "Število";
-"desc" = "Opis pametnega seznama";
+"lists_desc" = "Lepšie organizujte svoj obsah pomocou kolekcií a inteligentných zoznamov";
+"lists_name" = "Názov";
+"is_smartlist" = "Inteligentný zoznam";
+"count" = "Počet";
+"desc" = "Popis inteligentného zoznamu";
 
 // MARK: settings shortcuts
-"name" = "Ime";
-"shortcuts" = "Bližnjice";
-"shortcuts_quick_menu" = "Vklopi/izklopi hitri meni";
-"shortcuts_main_window" = "Vklopi/izklopi glavno okno";
-"shortcuts_paste_stack" = "Vklopi/izklopi vrsto lepljenja";
-"shortcuts_split_copy" = "拆分复制";
-"shortcuts_split_copy_desc" = "把选中的文本自动按行拆分复制成多项";
-"shortcuts_lists" = "设置快捷键快速打开列表";
-"shortcuts_lists_name" = "列表名字";
-"shortcuts_for_quick" = "在快捷菜单中打开";
-"shortcuts_for_pin" = "在主窗口中打开";
+"name" = "Funkcia";
+"shortcuts" = "Skratky";
+"shortcuts_quick_menu" = "Prepnúť rýchle menu";
+"shortcuts_main_window" = "Prepnúť hlavné okno";
+"shortcuts_paste_stack" = "Prepnúť frontu na prilepenie";
+"shortcuts_split_copy" = "Rozdelené kopírovanie";
+"shortcuts_split_copy_desc" = "Automaticky rozdeliť vybraný text podľa riadkov a skopírovať ako viacero položiek";
+"shortcuts_lists" = "Nastaviť skratky na rýchle otvorenie zoznamov";
+"shortcuts_lists_name" = "Názov zoznamu";
+"shortcuts_for_quick" = "Otvoriť v rýchlom menu";
+"shortcuts_for_pin" = "Otvoriť v hlavnom okne";
 
 // shortcuts display
-"shortcuts_for_quick_menu" = "快捷菜单常用快捷键";
+"shortcuts_for_quick_menu" = "Bežné skratky v rýchlom menu";
 
-"shortcuts_display_select_item" = "使用项目";
+"shortcuts_display_select_item" = "Vybrať položku";
 "shortcuts_display_select_item_shortcut" = "[0-9]/⮐";
 
-"shortcuts_display_move_to_item" = "移动到项目";
+"shortcuts_display_move_to_item" = "Presunúť na položku";
 "shortcuts_display_move_to_item_shortcut" = "⌥[0-9]/↑↓";
 
-"shortcuts_display_format_options_menu" = "格式化选单";
-"shortcuts_display_format_options_menu_shortcut" = "长按[0-9]/⮐";
+"shortcuts_display_format_options_menu" = "Menu formátovania";
+"shortcuts_display_format_options_menu_shortcut" = "Dlhé stlačenie [0-9]/⮐";
 
-"shortcuts_display_preview" = "预览";
-"shortcuts_display_preview_shortcut" = "空格";
+"shortcuts_display_preview" = "Náhľad";
+"shortcuts_display_preview_shortcut" = "Medzerník";
 
-"shortcuts_display_favorate" = "保存到收藏";
+"shortcuts_display_favorate" = "Uložiť do obľúbených";
 "shortcuts_display_favorate_shortcut" = "⌘S";
 
-"shortcuts_display_alias" = "添加别名";
+"shortcuts_display_alias" = "Pridať alias";
 "shortcuts_display_alias_shortcut" = "⌘A";
 
-"shortcuts_display_edit" = "编辑项目";
+"shortcuts_display_edit" = "Upraviť položku";
 "shortcuts_display_edit_shortcut" = "⌘E";
 
-"shortcuts_display_copy_to_clipboard" = "复制到剪贴板";
+"shortcuts_display_copy_to_clipboard" = "Kopírovať do schránky";
 "shortcuts_display_copy_to_clipboard_shortcut" = "⌘C";
 
-"shortcuts_display_switch_next_tab" = "下一个列表";
-"shortcuts_display_switch_next_tab_shortcut" = "和打开快捷菜单按键一致";
+"shortcuts_display_switch_next_tab" = "Nasledujúci zoznam";
+"shortcuts_display_switch_next_tab_shortcut" = "Rovnaká skratka ako rýchle menu";
 
-"shortcuts_display_switch_next_tab2" = "下一个列表2";
+"shortcuts_display_switch_next_tab2" = "Nasledujúci zoznam 2";
 "shortcuts_display_switch_next_tab2_shortcut" = "⌘→";
 
-"shortcuts_display_switch_prev_tab" = "上一个列表";
+"shortcuts_display_switch_prev_tab" = "Predchádzajúci zoznam";
 "shortcuts_display_switch_prev_tab_shortcut" = "⌘←";
 
-"shortcuts_display_search" = "开始搜索";
+"shortcuts_display_search" = "Spustiť vyhľadávanie";
 "shortcuts_display_search_shortcut" = "⌘F";
 
-"shortcuts_display_search2" = "直接开始搜索";
-"shortcuts_display_search2_shortcut" = "直接输入字符";
+"shortcuts_display_search2" = "Priame vyhľadávanie";
+"shortcuts_display_search2_shortcut" = "Priamo zadať znaky";
 
 // MARK: settings output formats
-"output_format_desc" = "预设输出格式，文字将格式化成指定的格式粘贴";
+"output_format_desc" = "Predvolený výstupný formát. Text bude pri prilepení formátovaný do zvoleného formátu";
 
 // MARK: settings ocr
-"ocr_desc" = "自动对复制的图片进行 OCR，以后可以使用文字搜索图片";
+"ocr_desc" = "Automaticky vykonať OCR na skopírovaných obrázkoch, čo v budúcnosti umožní vyhľadávanie textu v obrázkoch";
 
 // MARK: settings appUpdates
-"avaiable_updates" = "Available Updates";
-"beta_updates" = "Beta Updates";
-"install_now" = "Restart and Update";
-"updates_more_info" = "More Info...";
-"new_version" = "New Version";
+"avaiable_updates" = "Dostupné aktualizácie";
+"beta_updates" = "Beta aktualizácie";
+"install_now" = "Reštartovať a aktualizovať";
+"updates_more_info" = "Viac informácií...";
+"new_version" = "Nová verzia";
 
 // MARK: settings license
-"upgrade_to_pro" = "升级到 Pro";
-"free_amount_today" = "今日免费额度使用";
-"upgrade_to_pro_for_unlimited_access" = "升级到 Pro 获取全部功能的不限次使用!";
+"upgrade_to_pro" = "Prejsť na Pro";
+"free_amount_today" = "Dnešné bezplatné použitia";
+"upgrade_to_pro_for_unlimited_access" = "Prejdite na Pro pre neobmedzený prístup ku všetkým funkciám!";
 
 // MARK: - Preset resources
-"preset_resources" = "⚡️ Nytt tast Enter eller talltast for å lime inn innhold\n✏️ Hold tast Enter eller talltast inne for å åpne formateringsmenyen\n👀 Trykk mellomrom eller svev musen for forhåndsvisning, dra forhåndsvisningsvinduet for å feste på skjermen\n🖱️ Hold inne elementet for å dra, slipp for å lime inn\n👇 Trykk Tab for å utvide eller bla sider\n🔍 ⌘F eller trykk direkte på bokstavtast for å starte søket\n📋 ⌘C for å kopiere gjeldende element til utklippstavlen\n❌ ⌘D for å slette\n📝 ⌘A for å sette alias\n⭐ ⌘S for å legge til i standardfavoritter\n👆 ⇧+Tab for å bla sider oppover\n🖱️ Høyreklikk på elementet for å se menyvalg\n✂️ Velg flere linjer og trykk ⌘⇧C for å splitte og kopiere som flere linjer\n📚 ⌘' for å åpne innlimingskøen for å lime inn flere elementer i rekkefølge\n🖱️ ⌘⇧C for å åpne hovedvinduet for massebehandling og bruk, mer mus-vennlig\n⌨️ ⌘←/⌘→ Bytt raskt mellom lister\n⚡️ Trykk hurtigtasten for hurtigmenyen igjen for å oppnå samme effekt";
+"preset_resources" = "⚡️ Stlačte Enter alebo číselnú klávesu na prilepenie obsahu\n✏️ Dlhým stlačením Enter alebo číselnej klávesy otvoríte menu formátovania\n👀 Stlačte medzerník alebo prejdite myšou na náhľad, potiahnite okno náhľadu na pripnutie na obrazovku\n🖱️ Dlhým stlačením položky začnete ťahať, pustením prilepíte\n👇 Stlačte Tab na rozbalenie alebo listovanie stránok\n🔍 ⌘F alebo priamo stlačte písmeno na spustenie vyhľadávania\n📋 ⌘C na kopírovanie aktuálnej položky do schránky\n❌ ⌘D na odstránenie\n📝 ⌘A na nastavenie aliasu\n⭐ ⌘S na pridanie do predvolených obľúbených\n👆 ⇧+Tab na listovanie stránok nahor\n🖱️ Pravým kliknutím na položku zobrazíte možnosti menu\n✂️ Vyberte viac riadkov a stlačte ⌘⇧C na rozdelenie a kopírovanie ako viac riadkov\n📚 ⌘' na otvorenie fronty na prilepenie pre postupné prilepenie viacerých položiek\n🖱️ ⌘⇧C na otvorenie hlavného okna pre hromadnú správu, vhodnejšie pre myš\n⌨️ ⌘←/⌘→ Rýchle prepínanie zoznamov\n⚡️ Opätovným stlačením skratky rýchleho menu dosiahnete rovnaký efekt";
 
 // MARK: - Invite Friends
 // Payment Methods
@@ -665,34 +666,34 @@
 "form_field_paypal" = "Účet PayPal";
 
 // Placeholders
-"form_field_name_placeholder" = "Zadajte skutočné meno";
-"form_field_alipay_placeholder" = "Zadajte účet Alipay";
+"form_field_name_placeholder" = "Zadajte svoje skutočné meno";
+"form_field_alipay_placeholder" = "Zadajte svoj účet Alipay";
 // ... 其他占位文本
 
 // Loading
 "loading" = "Načítava sa...";
 
 // Rules
-"invite_rules_title" = "📜 CleanClip Pro pravidlá odmien za pozvanie priateľov";
+"invite_rules_title" = "📜 Pravidlá odmien CleanClip Pro za pozvanie priateľov";
 "invite_rules_trial_title" = "Ak ste používateľom skúšobnej verzie";
 "invite_rules_trial_1" = "Za každého pozvaného priateľa na skúšku získate mesiac členstva navyše";
-"invite_rules_trial_2" = "Za každého pozvaného priateľa, ktorý zaplatí, získate 12% z reálnej zaplatenej sumy späť";
-"invite_rules_paid_title" = "Ak ste plateným používateľom";
-"invite_rules_paid_1" = "Za každého pozvaného priateľa, ktorý zaplatí, získate 25% z reálnej zaplatenej sumy späť";
-"invite_rules_paid_2" = "Od šiesteho plateného používateľa sa tento pomer zníži na 20%";
+"invite_rules_trial_2" = "Za každého pozvaného priateľa, ktorý zaplatí, získate 12% z jeho platby späť";
+"invite_rules_paid_title" = "Ak ste platiacim používateľom";
+"invite_rules_paid_1" = "Za každého pozvaného priateľa, ktorý zaplatí, získate 25% z jeho platby späť";
+"invite_rules_paid_2" = "Od šiesteho plateného používateľa sa odmena znižuje na 20%";
 
 // Buttons
 "invite_start_button" = "Začať teraz";
-"become_paid_user_button" = "Staňte sa plateným používateľom teraz";
-"become_trial_user_button" = "Staňte sa používateľom skúšobnej verzie teraz";
+"become_paid_user_button" = "Staňte sa platiacim používateľom";
+"become_trial_user_button" = "Začnite skúšobnú verziu";
 "activate_license_button" = "Mám sériové číslo, aktivovať";
 "refresh_login_button" = "Aktivované, obnoviť stav prihlásenia";
 "upgrade_paid_button" = "Prejsť na platenú verziu";
-"bind_email_button" = "Kliknite na prepojenie e-mailu pre získanie pozývacieho odkazu";
+"bind_email_button" = "Kliknutím prepojte e-mail a získajte pozývací odkaz";
 
 // Titles
 "invite_friends_title" = "Pozvať priateľov";
-"invite_friends_subtitle" = "Pozvite priateľov, aby používali CleanClip Pro a získajte odmenu";
+"invite_friends_subtitle" = "Pozvite priateľov na CleanClip Pro a získajte odmenu";
 "invite_link_title" = "Pozývací odkaz";
 "upgrade_paid_title" = "Prejdite na platenú verziu a odomknite viac odmien";
 
@@ -700,66 +701,66 @@
 "reward_increase_title" = "Zvýšenie odmien";
 "reward_increase_desc" = "Odmeny za odporúčanie sa zvyšujú z 12% na maximálne 25%";
 "unlimited_withdraw_title" = "Neobmedzené výbery";
-"unlimited_withdraw_desc" = "Výbery kedykoľvek bez obmedzenia sumy";
+"unlimited_withdraw_desc" = "Výber kedykoľvek bez limitu sumy";
 
 // VIP Benefits
 "vip_benefits_title" = "Vaše exkluzívne VIP výhody";
-"vip_benefit_reward_title" = "Maximálne 25% odmena za odporúčanie";
-"vip_benefit_reward_desc" = "25% odmena za prvých 5 odporúčaní, 20% potom";
+"vip_benefit_reward_title" = "Odmena až 25% za odporúčanie";
+"vip_benefit_reward_desc" = "25% odmena za prvých 5 odporúčaní, potom 20%";
 "vip_benefit_withdraw_title" = "Neobmedzené výbery";
-"vip_benefit_withdraw_desc" = "Kedykoľvek si môžete vybrať, bez obmedzenia sumy";
-"vip_benefit_priority_title" = "Prioritné vyplatenie";
-"vip_benefit_priority_desc" = "Vaša žiadosť o výber bude spracovaná s prioritou do 48 hodín";
-"vip_benefit_pro_title" = "Úplné profesionálne funkcie";
+"vip_benefit_withdraw_desc" = "Výber kedykoľvek bez limitu sumy";
+"vip_benefit_priority_title" = "Prioritné spracovanie";
+"vip_benefit_priority_desc" = "Váš výber bude prioritne spracovaný do 48 hodín";
+"vip_benefit_pro_title" = "Všetky profesionálne funkcie";
 "vip_benefit_pro_desc" = "Prístup ku všetkým prémiovým funkciám CleanClip Pro";
 
 // Rewards
-"rewards_total_title" = "Nahromadené odmeny";
-"rewards_available_title" = "Odmeny na výber";
-"rewards_withdrawn_title" = "Vybrané odmeny";
+"rewards_total_title" = "Celkové odmeny";
+"rewards_available_title" = "K dispozícii na výber";
+"rewards_withdrawn_title" = "Vybraté";
 
 // Withdrawal
 "withdrawal_title" = "Žiadosť o výber";
 "withdrawal_form_button" = "Vyplňte formulár na podanie žiadosti";
 
 // Footer
-"footer_reward_desc" = "Čím viac pozvete, tým viac odmien získate! Zdieľajte s priateľmi a zažite silu CleanClip Pro. Žiadosť o výber bude spracovaná do 72 hodín.";
+"footer_reward_desc" = "Čím viac pozvete, tým viac odmien získate! Zdieľajte s priateľmi a užívajte si CleanClip Pro spolu. Výbery budú spracované do 72 hodín.";
 "footer_support_email" = "Podpora: support@cleanclip.cc";
 
 // Email Binding
 "email_binding_title" = "Prepojenie e-mailu";
-"email_binding_desc" = "Po prepojení e-mailu získate svoj vlastný pozývací odkaz";
-"email_input_placeholder" = "Zadajte e-mailovú adresu";
+"email_binding_desc" = "Prepojte e-mail a získajte jedinečný pozývací odkaz";
+"email_input_placeholder" = "Zadajte svoju e-mailovú adresu";
 "cancel_button" = "Zrušiť";
 "confirm_binding_button" = "Potvrdiť prepojenie";
 
 // Alert
 "email_sent_title" = "E-mail bol odoslaný";
-"email_sent_message" = "Overovací e-mail bol odoslaný na vašu e-mailovú adresu, prosím skontrolujte a dokončite overenie";
+"email_sent_message" = "Overovací e-mail bol odoslaný na vašu adresu. Skontrolujte si schránku a dokončite overenie.";
 "binding_failed_title" = "Prepojenie zlyhalo";
-"binding_failed_message" = "Prepojenie e-mailu zlyhalo, skúste to prosím neskôr: %@";
+"binding_failed_message" = "Prepojenie e-mailu zlyhalo, skúste to neskôr: %@";
 
 // Error Messages
 "email_invalid_title" = "Neplatný formát e-mailu";
-"email_invalid_message" = "Zadajte prosím správnu e-mailovú adresu";
+"email_invalid_message" = "Zadajte platnú e-mailovú adresu";
 "network_error_title" = "Chyba siete";
-"network_error_message" = "Skontrolujte prosím pripojenie na internet a skúste to znova";
+"network_error_message" = "Skontrolujte pripojenie na internet a skúste to znova";
 "unknown_error_title" = "Neznáma chyba";
-"unknown_error_message" = "Vyskytla sa neznáma chyba, skúste to prosím neskôr";
+"unknown_error_message" = "Vyskytla sa neznáma chyba, skúste to neskôr";
 
 // Rules
-"reward_rules_title" = "Pravidlá odmien";
-"reward_rules_payment_time" = "Je potrebné si sám požiadať o výber, odmeny budú vyplatené podľa zvolenej metódy výberu, do 72 hodín";
-"reward_rules_no_minimum" = "Žiadne minimálne požiadavky na výber";
-"reward_rules_paid_refund" = "Pre platených používateľov sa najprv vráti celá suma, a potom sa vyplatí z vyberanej metódy";
-"reward_rules_refund_channel" = "Vrátenie bude uskutočnené cez pôvodný platobný kanál";
-"reward_rules_payment_fee" = "Pri výbere cez Paypal sa odpočítava poplatok 4.4% + $0.3 (pre Paypal), výbery cez WeChat a Alipay sú bez poplatku";
+"reward_rules_title" = "Vyplácanie odmien";
+"reward_rules_payment_time" = "O výber je potrebné požiadať. Odmeny budú vyplatené zvolenou metódou do 72 hodín";
+"reward_rules_no_minimum" = "Žiadna minimálna suma na výber";
+"reward_rules_paid_refund" = "Pre platiacich používateľov sa najprv vráti celá suma a potom sa vyplatí zo zvolenej metódy výberu";
+"reward_rules_refund_channel" = "Vrátenie sa uskutoční cez pôvodný platobný kanál";
+"reward_rules_payment_fee" = "Pri výbere cez PayPal sa odpočíta poplatok 4,4% + $0,3 (pre PayPal). Výbery cez WeChat a Alipay sú bez poplatku";
 
 // Testimonials
-"testimonial_title" = "Spätná väzba používateľov";
-"testimonial_1_content" = "Odporúčaním priateľov si každý mesiac zarobím slušné vreckové, je to skvelé!";
+"testimonial_title" = "Ohlasy používateľov";
+"testimonial_1_content" = "Odporúčaním priateľov si každý mesiac zarobím pekné vreckové, je to skvelé!";
 "testimonial_1_author" = "David";
-"testimonial_2_content" = "Po zdieľaní s kolegami som získal 3-mesačné členstvo, softvér je veľmi užitočný a odmeny sú reálne.";
+"testimonial_2_content" = "Po zdieľaní s kolegami som získal 3-mesačné členstvo. Softvér je veľmi užitočný a odmeny sú reálne.";
 "testimonial_2_author" = "Sarah";
 
 // Withdrawal Form
@@ -770,11 +771,11 @@
 "confirm_button" = "Potvrdiť";
 
 "loading" = "Načítava sa...";
-"reward_rules_payment_title" = "Pravidlá vyplácania odmien";
+"reward_rules_payment_title" = "Vyplácanie odmien";
 "email_sent_title" = "E-mail bol odoslaný";
-"email_verification_sent_message" = "Overovací e-mail bol odoslaný na vašu e-mailovú adresu, prosím skontrolujte a dokončite overenie";
+"email_verification_sent_message" = "Overovací e-mail bol odoslaný na vašu adresu. Skontrolujte si schránku a dokončite overenie.";
 "binding_failed_title" = "Prepojenie zlyhalo";
-"binding_failed_message" = "Prepojenie e-mailu zlyhalo, skúste to prosím neskôr: %@";
+"binding_failed_message" = "Prepojenie e-mailu zlyhalo, skúste to neskôr: %@";
 
 "invite_friends" = "Pozvite a zarábajte";
 
@@ -783,15 +784,15 @@
 "actions_and_recovery" = "Akcie a obnova";
 "manual_backups" = "Ručné zálohy";
 "automatic_backups" = "Automatické zálohy";
-"auto_backup_description" = "Automatické zálohy sa vytvárajú približne každých 8 hodín. Systém uchováva posledných 7 automatických záloh a navyše uchováva najnovšiu zálohu každej verzie aplikácie. Ručné zálohy nebudú automaticky odstránené.";
+"auto_backup_description" = "Automatické zálohy sa vytvárajú približne každých 8 hodín. Systém uchováva posledných 7 automatických záloh a navyše najnovšiu zálohu každej verzie aplikácie. Ručné zálohy sa automaticky neodstraňujú.";
 "backup_now" = "Zálohovať teraz";
 "manual_recovery_guide" = "Príručka na ručnú obnovu:";
 "recovery_instructions_intro" = "Ak potrebujete obnoviť údaje zo zálohy, postupujte podľa týchto krokov:";
-"recovery_step_1" = "1. Nájdite zálohu, ktorú chcete obnoviť, v zozname nižšie, kliknite na tlačidlo Finder, aby ste otvorili jej priečinok.";
+"recovery_step_1" = "1. V zozname nižšie nájdite zálohu, ktorú chcete obnoviť, a kliknutím na tlačidlo Finder otvorte jej priečinok.";
 "recovery_step_2" = "2. Skopírujte všetky súbory v priečinku (zvyčajne `.sqlite`, `.sqlite-shm`, `.sqlite-wal`).";
 "recovery_step_3" = "3. Úplne ukončite aplikáciu CleanClip.";
-"recovery_step_4" = "4. V aplikácii Finder prejdite do nasledujúceho adresára na ukladanie údajov:";
-"recovery_step_5" = "5. Vložte súbory skopírované v kroku 2 do tohto adresára, čím prepíšete existujúce súbory.";
+"recovery_step_4" = "4. V aplikácii Finder prejdite do nasledujúceho adresára:";
+"recovery_step_5" = "5. Vložte súbory skopírované v kroku 2 do tohto adresára a prepíšte existujúce súbory.";
 "recovery_step_6" = "6. Reštartujte aplikáciu CleanClip.";
 "open_directory" = "Otvoriť adresár";
 "loading_path" = "Načítavanie cesty...";
@@ -803,16 +804,16 @@
 "model_version" = "Verzia modelu";
 "size" = "Veľkosť";
 "unknown" = "Neznáme";
-"not_available" = "N/A";
-"show_in_finder" = "Zobraziť v aplikácii Finder";
+"not_available" = "Nedostupné";
+"show_in_finder" = "Zobraziť vo Finderi";
 "delete_backup" = "Odstrániť zálohu";
 "delete_selected" = "Odstrániť vybrané";
-"show_in_finder_help" = "Zobraziť vybranú zálohu v aplikácii Finder (iba jediné vybranie)";
+"show_in_finder_help" = "Zobraziť vybranú zálohu vo Finderi (iba jednotlivý výber)";
 "delete_selected_help" = "Odstrániť všetky vybrané zálohy";
 "confirm_delete" = "Potvrdiť odstránenie";
 "delete_count_items" = "Odstrániť %d položiek";
 "cancel" = "Zrušiť";
-"delete_backups_confirmation" = "Ste si istí, že chcete odstrániť vybrané %d zálohy? Túto operáciu nie je možné vrátiť späť.";
+"delete_backups_confirmation" = "Naozaj chcete odstrániť vybraných %d záloh? Túto operáciu nie je možné vrátiť späť.";
 "operation_failed" = "Operácia zlyhala";
 "ok" = "OK";
 "load_backups_failed" = "Nepodarilo sa načítať zoznam záloh %@";
@@ -820,36 +821,36 @@
 "delete_partial_failed" = "Chyba pri odstraňovaní niektorých záloh";
 
 // MARK: - New backup settings strings
-"backup_settings" = "Nastavenia zálohy";
-"snapshot_backup_technology" = "Technológia zálohy snímok";
-"snapshot_technology_description" = "CleanClip používa technológiu snímok APFS na zálohu. Záložné súbory majú rovnakú veľkosť ako pôvodné súbory v Prieskumníkovi, ale používajú minimálny diskový priestor. Iba zmeny údajov spotrebúvajú ďalší priestor, viaceré zálohy inteligentne zdieľajú údaje, čím sa výrazne šetrí úložný priestor.";
-"automatic_backup_settings" = "Nastavenia automatickej zálohy";
-"enable_auto_backup" = "Povoliť automatickú zálohu";
-"backup_frequency" = "Frekvencia zálohy";
+"backup_settings" = "Nastavenia zálohovania";
+"snapshot_backup_technology" = "Technológia zálohovania snímkami";
+"snapshot_technology_description" = "CleanClip používa technológiu snímok APFS na zálohovanie. Záložné súbory sa vo Finderi zobrazujú s rovnakou veľkosťou ako pôvodné súbory, ale zaberajú minimálny diskový priestor. Iba zmeny údajov spotrebúvajú ďalší priestor. Viaceré zálohy inteligentne zdieľajú údaje, čím sa výrazne šetrí úložný priestor.";
+"automatic_backup_settings" = "Nastavenia automatického zálohovania";
+"enable_auto_backup" = "Povoliť automatické zálohovanie";
+"backup_frequency" = "Frekvencia zálohovania";
 "every_hour" = "Každú hodinu";
 "every_2_hours" = "Každé 2 hodiny";
 "every_4_hours" = "Každé 4 hodiny";
 "every_8_hours" = "Každých 8 hodín";
 "every_day" = "Každý deň";
-"manual_backup_settings" = "Ručná záloha";
+"manual_backup_settings" = "Ručné zálohovanie";
 "create_backup_immediately" = "Vytvoriť zálohu okamžite";
 "no_auto_backups" = "Žiadne automatické zálohy";
-"auto_backup_disabled_hint" = "Automatická záloha je zakázaná";
+"auto_backup_disabled_hint" = "Automatické zálohovanie je vypnuté";
 "no_manual_backups" = "Žiadne ručné zálohy";
-"create_first_backup_hint" = "Kliknite na tlačidlo vyššie a vytvorte svoju prvú zálohu";
-"apparent_size" = "Zjavná veľkosť";
+"create_first_backup_hint" = "Kliknutím na tlačidlo vyššie vytvorte svoju prvú zálohu";
+"apparent_size" = "Zdanlivá veľkosť";
 "recovery_and_troubleshooting" = "Obnova a riešenie problémov";
 "recovery_guide" = "Príručka na obnovu údajov";
-"recovery_prepare" = "Pripraviť obnovu";
-"recovery_prepare_desc" = "Vyberte zálohu zo zoznamu vyššie, kliknite pravým tlačidlom a vyberte \"Zobraziť v Prieskumníkovi\";";
+"recovery_prepare" = "Príprava obnovy";
+"recovery_prepare_desc" = "Vyberte zálohu zo zoznamu vyššie, kliknite pravým tlačidlom a zvoľte \"Zobraziť vo Finderi\"";
 "recovery_replace_files" = "Nahradiť súbory údajov";
-"recovery_replace_files_desc" = "Skopírujte všetky súbory z priečinka zálohy, kliknite na tlačidlo nižšie na otvorenie umiestnenia úložiska údajov, zatvorte CleanClip, vložte a nahraďte existujúce súbory";
+"recovery_replace_files_desc" = "Skopírujte všetky súbory z priečinka zálohy, kliknutím na tlačidlo nižšie otvorte umiestnenie údajov, zatvorte CleanClip, vložte a nahraďte existujúce súbory";
 "recovery_restart_app" = "Reštartovať aplikáciu";
 "recovery_restart_app_desc" = "Reštartujte CleanClip, aplikácia použije obnovené údaje";
-"recovery_notice" = "Oznámenie";
-"recovery_notice_desc" = "Operácia obnovy prepíše aktuálne údaje, odporúča sa najprv zálohovať dôležité informácie";
-"storage_location" = "Aktuálne umiestnenie úložiska údajov";
-"open_in_finder" = "Otvoriť v Prieskumníkovi";
+"recovery_notice" = "Upozornenie";
+"recovery_notice_desc" = "Operácia obnovy prepíše aktuálne údaje. Odporúčame najprv zálohovať dôležité informácie.";
+"storage_location" = "Aktuálne umiestnenie údajov";
+"open_in_finder" = "Otvoriť vo Finderi";
 "every_mins" = "Každú minútu";
 "every_hour" = "Každú hodinu";
 "every_2_hours" = "Každé 2 hodiny";
@@ -861,4 +862,4 @@
 "every_week" = "Každý týždeň";
 "every_2_weeks" = "Každé 2 týždne";
 "every_month" = "Každý mesiac";
-"auto_backup_cleanup_description" = "Politika uchovávania: 7 najnovších + posledný 1 za deň (30d) + posledný 1 za mesiac (12m) + posledný 1 za rok";
+"auto_backup_cleanup_description" = "Politika uchovávania: 7 najnovších + posledná 1 za deň (30d) + posledná 1 za mesiac (12m) + posledná 1 za rok";
